@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/ecommerce-product-page)
+- [Solution URL Here](https://github.com/AbuEisha/e-commerce-product-page)
 - [Live Site URL Here](https://ecommerce-product-page-live.pages.dev/)
 
 ## My process
